@@ -39,6 +39,8 @@
   
   <h4 align = "left">Team Collaboration Tool</h4>
   
+  ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+  ![Teams](https://img.shields.io/badge/teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Azure DevOps](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
