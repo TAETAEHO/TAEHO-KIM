@@ -12,7 +12,7 @@
 
 <span align = "left">
 
-  <h4 align = "left">Data Scientist (2023.08 ~ )</h4>
+  <h4 align = "left">AI Engineer (2023.08 ~ )</h4>
   <h4 align = "left">Backend Developer (2018.11 ~ 2023.08)</h4>
   
 </span>
